@@ -1,0 +1,14 @@
+# Backend & Core
+flask
+pandas
+numpy
+scipy
+openrouteservice
+shapely
+python-dotenv
+
+# Frontend
+streamlit
+folium
+streamlit-folium
+requests
