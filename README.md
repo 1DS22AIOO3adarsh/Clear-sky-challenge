@@ -4,9 +4,7 @@
 
 A full-stack web application that helps users find the cleanest, least polluted route for their journey. This app provides a side-by-side comparison of the "Fastest Route" and the "Cleanest Route" by using a predictive pollution model based on real-world sensor data.
 
-  
-<img width="2048" height="2048" alt="FLOW" src="https://github.com/user-attachments/assets/b8d4236f-19c2-434e-b642-bc39dd9f691f" />
-
+<img width="1788" height="892" alt="image" src="https://github.com/user-attachments/assets/065ecc47-1630-4b92-a8dc-811fe3032595" />
 
 ## ✨ Key Features
 
@@ -26,7 +24,7 @@ A full-stack web application that helps users find the cleanest, least polluted 
 The application uses a client-server architecture. The Streamlit frontend handles user interaction, while the Flask backend performs the heavy lifting of route calculation and pollution scoring.
 
   
-*\<-- Replace with a link to your architecture diagram --\>*
+<img width="2048" height="2048" alt="FLOW" src="https://github.com/user-attachments/assets/b8d4236f-19c2-434e-b642-bc39dd9f691f" />
 
 ## 🚀 Getting Started
 
