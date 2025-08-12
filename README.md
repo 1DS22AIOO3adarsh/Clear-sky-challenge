@@ -5,7 +5,8 @@
 A full-stack web application that helps users find the cleanest, least polluted route for their journey. This app provides a side-by-side comparison of the "Fastest Route" and the "Cleanest Route" by using a predictive pollution model based on real-world sensor data.
 
   
-*\<-- Replace with a link to your actual screenshot --\>*
+<img width="2048" height="2048" alt="FLOW" src="https://github.com/user-attachments/assets/b8d4236f-19c2-434e-b642-bc39dd9f691f" />
+
 
 ## ✨ Key Features
 
